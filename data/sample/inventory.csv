@@ -1,0 +1,17 @@
+snapshot_date,store_code,store_name,city,product_sku,product_name,category,brand,on_hand_qty,reorder_point,unit_cost
+2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-100,Wireless Earbuds,Electronics,SoundWave,3,10,1280
+2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-101,Smartwatch,Electronics,Tempo,14,6,3100
+2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-102,Coffee Machine,Home,BrewLab,2,4,4100
+2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-103,Yoga Mat,Fitness,Flexi,5,12,490
+2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-104,LED Desk Lamp,Home,Luma,9,7,870
+2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-105,Running Shoes,Fitness,Stride,0,5,2350
+2026-08-06,MUM-01,Bandra Store,Mumbai,SKU-100,Wireless Earbuds,Electronics,SoundWave,4,12,1280
+2026-08-06,MUM-01,Bandra Store,Mumbai,SKU-101,Smartwatch,Electronics,Tempo,2,6,3100
+2026-08-06,MUM-01,Bandra Store,Mumbai,SKU-102,Coffee Machine,Home,BrewLab,7,4,4100
+2026-08-06,MUM-01,Bandra Store,Mumbai,SKU-106,Steel Water Bottle,Accessories,Hydra,8,15,330
+2026-08-06,DEL-01,Saket Store,New Delhi,SKU-101,Smartwatch,Electronics,Tempo,1,5,3100
+2026-08-06,DEL-01,Saket Store,New Delhi,SKU-103,Yoga Mat,Fitness,Flexi,18,10,490
+2026-08-06,DEL-01,Saket Store,New Delhi,SKU-104,LED Desk Lamp,Home,Luma,2,8,870
+2026-08-06,DEL-01,Saket Store,New Delhi,SKU-105,Running Shoes,Fitness,Stride,6,5,2350
+2026-08-06,DEL-01,Saket Store,New Delhi,SKU-106,Steel Water Bottle,Accessories,Hydra,0,10,330
+2026-08-06,DEL-01,Saket Store,New Delhi,SKU-107,Urban Backpack,Accessories,Trail,3,6,1650

@@ -1,0 +1,25 @@
+transaction_id,sale_date,store_code,store_name,city,product_sku,product_name,category,brand,customer_id,customer_name,customer_email,quantity,unit_price,unit_cost
+TXN-10001,2026-07-08,BLR-01,Indiranagar Store,Bengaluru,SKU-100,Wireless Earbuds,Electronics,SoundWave,C-0001,Aarav Mehta,aarav@example.com,2,2499,1280
+TXN-10002,2026-07-09,BLR-01,Indiranagar Store,Bengaluru,SKU-104,LED Desk Lamp,Home,Luma,C-0002,Diya Shah,diya@example.com,1,1899,870
+TXN-10003,2026-07-10,MUM-01,Bandra Store,Mumbai,SKU-101,Smartwatch,Electronics,Tempo,C-0001,Aarav Mehta,aarav@example.com,1,5499,3100
+TXN-10004,2026-07-12,DEL-01,Saket Store,New Delhi,SKU-103,Yoga Mat,Fitness,Flexi,C-0003,Kabir Singh,kabir@example.com,3,1199,490
+TXN-10005,2026-07-14,MUM-01,Bandra Store,Mumbai,SKU-107,Urban Backpack,Accessories,Trail,C-0004,Meera Iyer,meera@example.com,1,3299,1650
+TXN-10006,2026-07-16,BLR-01,Indiranagar Store,Bengaluru,SKU-100,Wireless Earbuds,Electronics,SoundWave,C-0001,Aarav Mehta,aarav@example.com,1,2499,1280
+TXN-10007,2026-07-18,DEL-01,Saket Store,New Delhi,SKU-105,Running Shoes,Fitness,Stride,C-0005,Rohan Kapoor,rohan@example.com,2,4199,2350
+TXN-10008,2026-07-19,MUM-01,Bandra Store,Mumbai,SKU-102,Coffee Machine,Home,BrewLab,C-0002,Diya Shah,diya@example.com,1,6999,4100
+TXN-10009,2026-07-21,BLR-01,Indiranagar Store,Bengaluru,SKU-106,Steel Water Bottle,Accessories,Hydra,C-0006,Nisha Rao,nisha@example.com,4,899,330
+TXN-10010,2026-07-22,DEL-01,Saket Store,New Delhi,SKU-101,Smartwatch,Electronics,Tempo,C-0003,Kabir Singh,kabir@example.com,1,5499,3100
+TXN-10011,2026-07-24,MUM-01,Bandra Store,Mumbai,SKU-105,Running Shoes,Fitness,Stride,C-0004,Meera Iyer,meera@example.com,1,4199,2350
+TXN-10012,2026-07-25,BLR-01,Indiranagar Store,Bengaluru,SKU-104,LED Desk Lamp,Home,Luma,C-0001,Aarav Mehta,aarav@example.com,2,1899,870
+TXN-10013,2026-07-27,DEL-01,Saket Store,New Delhi,SKU-103,Yoga Mat,Fitness,Flexi,C-0007,Vikram Patel,vikram@example.com,2,1199,490
+TXN-10014,2026-07-28,MUM-01,Bandra Store,Mumbai,SKU-100,Wireless Earbuds,Electronics,SoundWave,C-0002,Diya Shah,diya@example.com,3,2499,1280
+TXN-10015,2026-07-29,DEL-01,Saket Store,New Delhi,SKU-107,Urban Backpack,Accessories,Trail,C-0005,Rohan Kapoor,rohan@example.com,1,3299,1650
+TXN-10016,2026-07-31,BLR-01,Indiranagar Store,Bengaluru,SKU-102,Coffee Machine,Home,BrewLab,C-0008,Sana Ali,sana@example.com,1,6999,4100
+TXN-10017,2026-08-01,MUM-01,Bandra Store,Mumbai,SKU-101,Smartwatch,Electronics,Tempo,C-0001,Aarav Mehta,aarav@example.com,2,5499,3100
+TXN-10018,2026-08-02,DEL-01,Saket Store,New Delhi,SKU-106,Steel Water Bottle,Accessories,Hydra,C-0006,Nisha Rao,nisha@example.com,5,899,330
+TXN-10019,2026-08-03,BLR-01,Indiranagar Store,Bengaluru,SKU-105,Running Shoes,Fitness,Stride,C-0004,Meera Iyer,meera@example.com,1,4199,2350
+TXN-10020,2026-08-04,MUM-01,Bandra Store,Mumbai,SKU-100,Wireless Earbuds,Electronics,SoundWave,C-0002,Diya Shah,diya@example.com,2,2499,1280
+TXN-10021,2026-08-05,DEL-01,Saket Store,New Delhi,SKU-104,LED Desk Lamp,Home,Luma,C-0003,Kabir Singh,kabir@example.com,3,1899,870
+TXN-10022,2026-08-06,BLR-01,Indiranagar Store,Bengaluru,SKU-103,Yoga Mat,Fitness,Flexi,C-0007,Vikram Patel,vikram@example.com,4,1199,490
+TXN-10023,2026-08-06,MUM-01,Bandra Store,Mumbai,SKU-107,Urban Backpack,Accessories,Trail,C-0001,Aarav Mehta,aarav@example.com,1,3299,1650
+TXN-10024,2026-08-06,DEL-01,Saket Store,New Delhi,SKU-101,Smartwatch,Electronics,Tempo,C-0008,Sana Ali,sana@example.com,1,5499,3100
