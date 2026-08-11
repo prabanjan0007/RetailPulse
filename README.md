@@ -1,5 +1,9 @@
 # 🛍️ RetailPulse
 
+## 🚀 Live Demo
+
+👉 [Open RetailPulse Dashboard](https://retailpulseon.streamlit.app/)
+
 > An end-to-end retail analytics dashboard for monitoring sales, profitability, inventory health, customer behavior, and store performance.
 
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
